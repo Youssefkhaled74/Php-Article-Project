@@ -1,0 +1,26 @@
+body{
+    background-color: #c1d6dc;
+}
+.TheTitel{
+    margin-top: 20px;
+    text-align: center;
+    color: #1f2217;
+    font-size: 55px;
+}
+.textnav{
+    color: aqua;
+    font-weight: 500;
+}
+.list{
+    margin: 10px;
+}
+.list li{
+    margin: 20px;
+}
+.phpside{
+    margin-top: 200px;
+    transition: transform 0.5s ;
+}
+.phpside:hover{
+    margin-top: 100pxx;
+}
